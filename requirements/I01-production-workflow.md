@@ -76,15 +76,15 @@ By the end of the guided portion:
 - [&#10003;] Git author name and email are configured.
 - [&#10003;] The local Git repository has been initialized.
 - [&#10003;] The default branch is named `main`.
-- [ ] The initial `README.md` has been committed locally.
-- [ ] A public `my-platform` repository exists on GitHub.
-- [ ] GitHub CLI is installed and authenticated.
-- [ ] The local repository is connected to GitHub as `origin`.
-- [ ] Local `main` has been pushed to GitHub.
-- [ ] A GitHub ruleset protects `main`.
-- [ ] The first project branch has been created.
-- [ ] The initial repository structure has been created.
-- [ ] This assignment has been copied into `requirements/I01-production-workflow.md`.
+- [&#10003;] The initial `README.md` has been committed locally.
+- [&#10003;] A public `my-platform` repository exists on GitHub.
+- [&#10003;] GitHub CLI is installed and authenticated.
+- [&#10003;] The local repository is connected to GitHub as `origin`.
+- [&#10003;] Local `main` has been pushed to GitHub.
+- [&#10003;] A GitHub ruleset protects `main`.
+- [&#10003;] The first project branch has been created.
+- [&#10003;] The initial repository structure has been created.
+- [&#10003;] This assignment has been copied into `requirements/I01-production-workflow.md`.
 
 You may refer to the course slides and setup notes for exact commands.
 
