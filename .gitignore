@@ -1,0 +1,26 @@
+# Java / Gradle
+.gradle/
+build/
+*.class
+*.jar
+!gradle-wrapper.jar
+
+# Node / React / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
