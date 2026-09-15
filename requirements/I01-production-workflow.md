@@ -152,10 +152,10 @@ After the PR is merged:
 3. Delete the completed local branch.
 4. Delete the completed remote branch.
 
-- [&#10003;] Verified the expected directories and files locally and reviewed the repository state before committing.
-- [&#10003;] Pull Request 1 has been merged.
-- [&#10003;] Local `main` has been updated.
-- [&#10003;] The completed branch has been cleaned up.
+- [ ] Verified the expected directories and files locally and reviewed the repository state before committing.
+- [ ] Pull Request 1 has been merged.
+- [ ] Local `main` has been updated.
+- [ ] The completed branch has been cleaned up.
 
 ---
 
@@ -198,11 +198,11 @@ You do not need a separate Linux installation of VS Code. VS Code can run in Win
 
 Before committing:
 
-- [&#10003;] Review the contents of `.gitignore`.
-- [&#10003;] Inspect `git status`.
-- [&#10003;] Verify that only the intended changes will be committed.
-- [&#10003;] Commit with an appropriate descriptive message.
-- [&#10003;] Push the branch to GitHub.
+- [ ] Review the contents of `.gitignore`.
+- [ ] Inspect `git status`.
+- [ ] Verify that only the intended changes will be committed.
+- [ ] Commit with an appropriate descriptive message.
+- [ ] Push the branch to GitHub.
 
 ---
 
@@ -232,9 +232,9 @@ You may use this wording directly or revise it to better match what you actually
 
 After merging:
 
-- [&#10003;] Pull Request 2 has been merged.
-- [&#10003;] Local `main` has been updated.
-- [&#10003;] The completed branch has been cleaned up.
+- [ ] Pull Request 2 has been merged.
+- [ ] Local `main` has been updated.
+- [ ] The completed branch has been cleaned up.
 
 ---
 
@@ -311,12 +311,12 @@ Project conventions are documented in:
 ```
 Before committing:
 
-- [ ] The style guide exists at `docs/style-guide.md`.
-- [ ] `docs/.gitkeep` has been removed.
-- [ ] `README.md` accurately describes the current project.
-- [ ] The README link/path to the style guide is correct.
-- [ ] Markdown files have been reviewed for formatting and obvious errors.
-- [ ] Repository state has been inspected before committing.
+- [&#10003;] The style guide exists at `docs/style-guide.md`.
+- [&#10003;] `docs/.gitkeep` has been removed.
+- [&#10003;] `README.md` accurately describes the current project.
+- [&#10003;] The README link/path to the style guide is correct.
+- [&#10003;] Markdown files have been reviewed for formatting and obvious errors.
+- [&#10003;] Repository state has been inspected before committing.
 
 ---
 
@@ -346,10 +346,10 @@ You may use this wording directly or edit it to better describe your actual work
 
 After merging:
 
-- [ ] Reviewed the Markdown files, verified the documented repository paths, and confirmed that the README accurately reflects the current project state.
-- [ ] Pull Request 3 has been merged.
-- [ ] Local `main` has been updated.
-- [ ] The completed branch has been cleaned up.
+- [&#10003;] Reviewed the Markdown files, verified the documented repository paths, and confirmed that the README accurately reflects the current project state.
+- [&#10003;] Pull Request 3 has been merged.
+- [&#10003;] Local `main` has been updated.
+- [&#10003;] The completed branch has been cleaned up.
 
 ---
 
