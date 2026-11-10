@@ -1,7 +1,25 @@
 import './App.css'
 import bob from './assets/bob.jpg'
 
+  type ReportKind = 'bug' | 'feature'
+
+  type Report = {
+    id: string
+    text: string
+    kind: ReportKind
+  }
+
 function App() {
+
+  const sampleReport: Report = {
+    id: '1',
+    text: 'Navigation link is broken',
+    kind: 'bug',
+  }
+
+
+
+  
   return (
     <div className="page">
       <header className="header">
@@ -29,6 +47,11 @@ function App() {
           </p>
           <p className="status">Initial frontend setup in progress.</p>
         </div>
+        <section className="report-board">
+        <h2>Bugs & Feature Requests</h2>
+        <p>{sampleReport.text} ({sampleReport.kind})</p>
+</section>
+
       </main>
     </div>
   )
